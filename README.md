@@ -3,8 +3,6 @@
 An events calendar I built in May 2018 during my OJT (on-the-job training)
 as an Information Technology student at Informatics in Baguio City.
 
-**View it live:** <https://everett911.github.io/eps-calendar-2018/>
-
 > **Archived as-is.** This repository is a record of my early work. For my
 > current projects, see my
 > [portfolio](https://everett-lara.vercel.app/).
@@ -48,6 +46,6 @@ My work during the OJT:
 
 ## Running it
 
-Open `index.html` in a browser, or visit the live link above. jQuery loads
+Download or clone the repository and open `index.html` in a browser. jQuery loads
 from Google's CDN, so you need an internet connection. (In 2026 I switched the
-jQuery and font links from `http` to `https` so they load on GitHub Pages.)
+jQuery and font links from `http` to `https` so they load in modern browsers.)
